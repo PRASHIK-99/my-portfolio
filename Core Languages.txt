@@ -1,0 +1,17 @@
+Core Languages:
+TypeScript: This is the primary language used for writing the application code, adding type safety to JavaScript.
+CSS: Used for styling, especially in the globals.css file where the theme variables are defined.
+
+Frameworks & Major Libraries:
+Next.js: The core framework built on top of React. It handles routing, server-side rendering, and the overall application structure.
+React: The fundamental UI library used to create all the components and manage the user interface.
+Tailwind CSS: A utility-first CSS framework used for all the styling. It allows for rapid UI development by using classes directly in the markup.
+Genkit: The framework used to connect to and manage generative AI models from Google.
+ShadCN UI: This is not a traditional component library but a collection of reusable UI components (like Buttons, Cards, etc.) that are built using Radix UI and Tailwind CSS.
+
+Key Libraries & Tools:
+Lucide React: For all the icons you see throughout the portfolio.
+React Hook Form & Zod: Used together for robust form validation, as seen in the "Connect" section's contact form.
+clsx & tailwind-merge: Utility libraries that help manage and merge Tailwind CSS classes conditionally.
+
+In short, it's a modern web application built with a TypeScript, Next.js, and Tailwind CSS stack.
