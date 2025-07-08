@@ -69,7 +69,7 @@ https://my-portfolio-two-omega-96.vercel.app/
 
 If you'd like to collaborate or hire me:
 
-- 📧 Email: muneshwar.prashik22@vit.edu
+- 📧 Email: prashikm1999@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashik-muneshwar/)
 - 💻 [GitHub](https://github.com/PRASHIK-99)
 
